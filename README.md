@@ -1,170 +1,201 @@
-# 👋 Hi, I'm Mihir Rathod
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;VAPT+%7C+Web+Application+Security;OSINT+%7C+DFIR+%7C+Security+Automation;Building+Tools.+Breaking+Systems.+Securing+Them." alt="Typing SVG" />
+# 🔐 MIHIR RATHOD
 
-<br>
+### Cybersecurity Researcher | VAPT | Web Security | OSINT | DFIR
 
-<img src="https://komarev.com/ghpvc/?username=Mihirrathod07&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views"/>
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VAPT-FF3B30?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-00A8E8?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DFIR-7B61FF?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Mihirrathod07&label=Profile%20Views&color=00ff88&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/Mihirrathod07?label=Followers&style=flat-square&color=00ff88"/>
+  <img src="https://img.shields.io/github/stars/Mihirrathod07?label=Stars&style=flat-square&color=00ff88"/>
+</p>
 
 </div>
 
 ---
 
-## 🛡️ About Me
+# 🛡️ About Me
 
-I'm a **Cybersecurity enthusiast and M.Tech Cybersecurity student** focused on understanding how systems fail, identifying security weaknesses, and building tools that help improve security.
+I'm **Mihir Rathod**, an **M.Tech Cybersecurity student** focused on practical cybersecurity, vulnerability assessment, web application security, OSINT, digital forensics, and security automation.
 
-My primary interests include:
+I enjoy understanding how systems work, identifying security weaknesses, building security tools, and learning through hands-on labs and real-world security scenarios.
 
-- 🔴 Web Application Security & VAPT
+### 🔎 My Primary Interests
+
+- 🔴 Vulnerability Assessment & Penetration Testing
+- 🌐 Web Application & API Security
 - 🕵️ Open Source Intelligence (OSINT)
 - 🔎 Digital Forensics & Incident Response
-- 🛡️ Security Operations & Threat Detection
-- ⚙️ Security Automation
+- 🛡️ SOC & Threat Hunting
 - 🐧 Linux & Network Security
-- 🧪 Ethical Hacking & Penetration Testing
-
-I enjoy working with security tools, building cybersecurity projects, solving practical labs, and continuously learning through hands-on experimentation.
+- ⚙️ Cybersecurity Automation
+- 🧪 Ethical Hacking & Security Research
 
 ---
 
-## ⚔️ Cybersecurity Arsenal
+# ⚔️ Cybersecurity Arsenal
 
-### 🔴 Security & VAPT
+## 🔴 Security & VAPT
 
-<p align="left">
-
+<p>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLMap-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Nuclei-1E88E5?style=for-the-badge"/>
 </p>
 
-### 🐧 Operating Systems & Infrastructure
+## 🕵️ OSINT & Reconnaissance
 
-<p align="left">
+<p>
+<img src="https://img.shields.io/badge/Maltego-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpiderFoot-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recon--ng-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shodan-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WHOIS-555555?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WhatWeb-444444?style=for-the-badge"/>
+</p>
 
+## 🔎 Digital Forensics
+
+<p>
+<img src="https://img.shields.io/badge/FTK_Imager-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autopsy-374151?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Volatility-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recuva-4B5563?style=for-the-badge"/>
+</p>
+
+## 🐧 Operating Systems & Infrastructure
+
+<p>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-### 💻 Programming & Development
+## 💻 Development
 
-<p align="left">
-
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</p>
-
-### 🕵️ OSINT & Intelligence
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Maltego-1F1F1F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SpiderFoot-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recon--ng-222222?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shodan-FF4F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WHOIS-444444?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Git-Git?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Security Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 🔴 VulnProbe
+<td width="50%" valign="top">
 
-**Web Vulnerability Scanner**
+## 🔴 VulnProbe
 
-A Flask-based security scanner designed to identify common web application security issues and generate security reports.
+### Web Vulnerability Scanner
 
-**Features:**
-- Port Scanning
-- SQL Injection Detection
-- XSS Detection
-- Security Header Analysis
-- Directory Enumeration
-- Subdomain Discovery
-- CVE Detection
-- Risk Scoring
-- HTML Report Generation
+A Flask-based web security scanner designed to automate reconnaissance and identify common web application security issues.
 
-**Tech:** Python • Flask • Nmap • Web Security
+### Key Features
+
+- 🔍 Port Scanning
+- 🌐 Subdomain Enumeration
+- 📂 Directory Discovery
+- 💉 SQL Injection Detection
+- 🕸️ XSS Detection
+- 🛡️ Security Header Analysis
+- 🔎 CVE Detection
+- 📊 Risk Scoring
+- 📄 HTML Security Reports
+
+### Tech Stack
+
+`Python` `Flask` `Nmap` `Web Security`
+
+<br>
+
+<a href="https://github.com/Mihirrathod07/VulnProbe">
+<img src="https://img.shields.io/badge/View_Project-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🕵️ PhantomEye
+
+### OSINT Intelligence Platform
+
+An OSINT platform designed to bring multiple information-gathering and reconnaissance capabilities into a unified interface.
+
+### Key Features
+
+- 👤 Username Lookup
+- 🌐 IP & Domain Recon
+- 📧 Email Intelligence
+- 📱 Phone Intelligence
+- 🧾 Metadata Extraction
+- 🔎 WHOIS & DNS Lookup
+- 🎯 Dork Generator
+- 🔐 Hash Identifier
+- 📊 Risk Scoring
+- 🗂️ Scan History
+
+### Tech Stack
+
+`Python` `OSINT` `Reconnaissance` `Web Technologies`
 
 </td>
 
-<td width="50%">
-
-### 🕵️ PhantomEye
-
-**OSINT Intelligence Platform**
-
-A practical OSINT platform combining multiple reconnaissance and intelligence capabilities into a single interface.
-
-**Features:**
-- Username Lookup
-- IP / Domain Recon
-- Email Intelligence
-- Metadata Extraction
-- Phone Lookup
-- WHOIS / DNS Lookup
-- Dork Generation
-- Hash Identification
-- Risk Scoring
-- Scan History
-
-**Tech:** Python • OSINT • Web Technologies
-
-</td>
 </tr>
 </table>
 
 ---
 
-# 🔬 Areas of Interest
+# 🧰 Security Toolkit
+
+| Category | Tools / Technologies |
+|---|---|
+| 🔍 Reconnaissance | Nmap, Gobuster, Dirsearch, WhatWeb, WHOIS, Dig |
+| 🌐 Web Security | Burp Suite, OWASP ZAP, SQLMap, Nuclei |
+| 💥 Exploitation | Metasploit |
+| 🕵️ OSINT | Maltego, SpiderFoot, Recon-ng, Shodan |
+| 🔎 Forensics | FTK Imager, Autopsy, Volatility, Recuva |
+| 🌐 Network Analysis | Wireshark, Nmap |
+| 🐧 Operating Systems | Kali Linux, Linux, Windows |
+| 💻 Development | Python, JavaScript, Flask, React, Node.js |
+| 🖥️ Virtualization | VMware Workstation |
+
+---
+
+# 🎯 Cybersecurity Focus
 
 ```text
-┌───────────────────────────────────────────────────────┐
-│                                                       │
-│  🔴 Web Application Security                          │
-│  ├── OWASP Top 10                                     │
-│  ├── Manual VAPT                                      │
-│  ├── Burp Suite                                       │
-│  └── API Security                                     │
-│                                                       │
-│  🕵️ OSINT                                              │
-│  ├── Reconnaissance                                   │
-│  ├── Information Gathering                            │
-│  ├── Threat Intelligence                              │
-│  └── Digital Footprinting                             │
-│                                                       │
-│  🔎 DFIR                                               │
-│  ├── Disk Forensics                                   │
-│  ├── Memory Analysis                                  │
-│  ├── Incident Response                                │
-│  └── Evidence Analysis                                │
-│                                                       │
-│  🛡️ SOC / Threat Hunting                              │
-│  ├── SIEM                                             │
-│  ├── EDR                                              │
-│  ├── IOC Analysis                                     │
-│  └── MITRE ATT&CK                                     │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+                    CYBERSECURITY
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+       VAPT             OSINT            DFIR
+        │                │                │
+   Web Security      Recon & Intel    Memory Analysis
+   API Security      Enumeration      Disk Forensics
+   OWASP Top 10      Investigation    Incident Response
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                  SECURITY RESEARCH
+                         │
+                  AUTOMATION & TOOLS
