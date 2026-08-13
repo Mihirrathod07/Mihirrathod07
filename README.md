@@ -157,11 +157,13 @@ An OSINT platform designed to bring multiple information-gathering and reconnais
 ### Tech Stack
 
 `Python` `OSINT` `Reconnaissance` `Web Technologies`
+
 <br>
 
 <a href="https://github.com/Mihirrathod07/Phantomeye">
 <img src="https://img.shields.io/badge/View_Project-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
+
 </td>
 
 </tr>
