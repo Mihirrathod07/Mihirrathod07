@@ -93,6 +93,25 @@
 
 ---
 
+# 🛠️ CYBERSECURITY TOOLKIT
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,html,css,javascript" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</div>
+
+---
+
 # 🚀 FEATURED PROJECTS
 
 <table>
@@ -162,6 +181,12 @@ A unified OSINT platform for reconnaissance, information gathering and digital i
 <br><br>
 
 Python • OSINT • Recon • Web Technologies
+
+<br><br>
+
+<a href="https://github.com/Mihirrathod07/Phantomeye">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </td>
 
@@ -254,37 +279,11 @@ Python • OSINT • Recon • Web Technologies
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mihirrathod07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihirrathod07&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Mihirrathod07&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihirrathod07&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mihirrathod07&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
